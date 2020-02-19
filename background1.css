@@ -1,0 +1,11 @@
+.background1{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.background1 .list-1-1{
+    display: flex;
+}
+.background1 .list-1-1 li{
+    list-style: none;
+    padding: 0 11px;
+}
