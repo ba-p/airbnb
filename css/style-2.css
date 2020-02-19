@@ -1,0 +1,53 @@
+.head-2{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 60px;
+}
+
+.form-2-1{
+    padding: 8px 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    color: #6959CD;
+    font-weight: bold;
+}
+
+.bed{
+    background-image: url(../image/room_23485_60_1557136821.jpg);
+    height: 150px;
+    width:70%;
+    background-position: center;
+    background-size: cover;
+}
+.bed-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exp{
+    padding-left: 25px;
+    background-image: url(../image/unnamed.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 70%;
+}
+.exp-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adven{
+    padding-left: 25px;
+    background-image: url(../image/trai-nghiem-leo-fansipan-2016.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 70%;
+}
+.adven-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

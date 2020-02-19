@@ -1,0 +1,12 @@
+.head-2-1{
+    padding: 0px 60px;
+    margin: 2px;
+}
+.head-2-2{
+    height: 400px;
+    width:85%;
+    background-image: url(/image/maxresdefault.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 8px 60px;
+}
