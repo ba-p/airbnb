@@ -2,3 +2,62 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.form-5-1-1{
+    background-image: url(/image/du-lich-y.png);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-2{
+    background-image: url(/image/dg_190903_Montenegro.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-3{
+    background-image: url(/image/Usa-newyork1-780x520.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-4{
+    background-image: url(/image/4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-5{
+    background-image: url(/image/Gulfoss_Iceland_2005.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-6{
+    background-image: url(/image/gui-hang-di-Y.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-7{
+    background-image: url(/image/qiongru-193822113800-Tong-quan-chung-ve-Y.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+.form-5-1-8{
+    background-image: url(/image/tour-du-lich-bo-tay-hoa-ky-475-1-800x500.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 85%;
+}
+
+
